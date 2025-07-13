@@ -76,3 +76,8 @@
 .navbar_profile:hover .dropdown{
     display: block;
 }
+
+.navbar-black{
+    color: black;
+    
+}
